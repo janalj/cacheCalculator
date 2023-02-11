@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Cahce Calculator</h1>
+      <h1>Cache Calculator</h1>
 
       <h3>Dicreted Map</h3>
 
