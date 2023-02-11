@@ -31,7 +31,7 @@ function App() {
 
       <form>
       <label>
-        Cahce Size 
+        Cache Size 
       <input
         value={cacheSize}
         onChange={e => setCacheSize(e.target.value)}
